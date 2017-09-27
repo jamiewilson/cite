@@ -1,0 +1,19 @@
+{
+  "name": "nedb-demo",
+  "version": "0.0.1",
+  "description": "Example app showing use of NeDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.5",
+    "nedb": "^1.8.0"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nedb"
+  ],
+  "license": "MIT"
+}
